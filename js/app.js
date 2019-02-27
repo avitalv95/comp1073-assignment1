@@ -18,8 +18,8 @@ var btnThree = document.getElementById("three");
 var btnFour = document.getElementById("four");
 var btnFive = document.getElementById("five");
 
-var speakButton = document.getElementById("say-btn");
-var btnReset = document.getElementById("reset-btn");
+var speakButton = document.getElementById("btnRead");
+var btnReset = document.getElementById("btnReset");
 
 //string arrays
 var arrayOne = ["Mom ", "Dad ", "The turkey ", "The dog ", "My teacher ", "The elephant ", "The cat "];

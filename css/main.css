@@ -1,2 +1,11 @@
 @charset "utf-8";
 /* Assignment 1 | COMP1073 Client-Side JavaScript */
+td,tr,th {
+    text-align: center !important;
+}
+#column {
+    background-color:  rgba(68, 255, 0, 0.621);
+}
+#one,#two,#three,#four,#five,#btnRead,#btnReset {
+    margin-left: 1em;  
+}
